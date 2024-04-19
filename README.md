@@ -13,7 +13,11 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Links de reeferencia
+Bottom Navigation Bar, Como debe ser.
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Imagenes 
+![image](https://github.com/YizziaA/Act5DisenoVar/assets/143548810/e8820d55-7bae-469b-add8-5cbee4530459)
+![image](https://github.com/YizziaA/Act5DisenoVar/assets/143548810/5c2a0bc0-9232-4c65-bf46-d326e8998a94)
+![image](https://github.com/YizziaA/Act5DisenoVar/assets/143548810/02046a2f-9a29-4cc8-935f-f3ce9d171824)
+![image](https://github.com/YizziaA/Act5DisenoVar/assets/143548810/6afbb013-1e9f-420b-83ae-54cf32e99940)
